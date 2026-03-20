@@ -58,7 +58,7 @@ Resumo estruturado sobre o conteúdo do curso, focado em como aplicar as prátic
 
 ---
 
-## 🔧 Aplicação prática no papel de QE
+## 🔧 Aplicação prática no papel de QA
 - **Análise de bugs:** identificar se o erro está no comportamento esperado ou no cenário mal definido.
 - **Revisão de cenários BDD:** propor melhorias para clareza e cobertura.
 - **Refinar histórias:** ajudar PO e dev a criar exemplos concretos antes do desenvolvimento.
