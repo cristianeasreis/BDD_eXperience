@@ -1,5 +1,5 @@
 # Curso BDD eXperience – Automação Web com Cucumber, Selenium e Ruby
-Resumo estruturado sobre o conteúdo do curso, focado em como aplicar as práticas no dia a dia do QE.
+Resumo estruturado sobre o conteúdo do curso, focado em como aplicar as práticas no dia a dia do QA.
 
 ---
 
