@@ -46,3 +46,10 @@ Então('o valor total da compra deve ser de {string}') do |total_price|
   expect(price.text).to eq(total_price)
 end
 
+Então('devo ver um popup informando que o produto está indisponível') do
+  sleep 10
+end
+
+
+
+
