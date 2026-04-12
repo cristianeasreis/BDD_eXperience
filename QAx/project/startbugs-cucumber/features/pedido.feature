@@ -6,7 +6,7 @@ Funcionalidade: Pedidos
     Eu quero selecionar e comprar cafés 
     Para que eu possa receber o produto no meu endereço e efetuar o pagamento na entrega.
 
-
+  @smoke
   Cenário: Compra bem sucedida
 
     Dado que estou na página principal da StarBugs
