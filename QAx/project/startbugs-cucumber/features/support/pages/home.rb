@@ -11,8 +11,8 @@ class HomePage
     end
 
     def buy(coffee_name)
-    product = find('.coffee-item', text: /#{coffee_name}/i)
-    product.find('.buy-coffee').click
-
+        product = first('.coffee-item', text: /#{Regexp.escape(coffee_name)}/i)
+        raise "Produto '#{coffee_name}' não encontrado" unless product
+        product.find('.buy-coffee').click
     end     
 end
