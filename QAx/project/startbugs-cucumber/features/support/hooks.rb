@@ -9,7 +9,9 @@ Before do
     @checkout = CheckoutPage.new
     @order = OrderPage.new
     @popup = PopupComponent.new
-    
 
+end
 
+After do
+    page.save_screenshot("logs/screenshots/temp.png")
 end
